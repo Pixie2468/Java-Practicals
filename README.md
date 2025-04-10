@@ -17,7 +17,7 @@ The repository is organized into different sections:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/JavaPracticals.git
+git clone https://github.com/Pixie2468/JavaPracticals.git
 ```
 
 2. Navigate to the project directory
